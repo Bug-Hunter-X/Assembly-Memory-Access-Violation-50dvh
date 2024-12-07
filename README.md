@@ -1,0 +1,2 @@
+# Assembly Memory Access Violation Bug
+This repository demonstrates a common error in assembly language programming: memory access violations. The `bug.asm` file contains code that attempts to access memory using incorrect pointer arithmetic, potentially leading to segmentation faults or crashes. The `bugSolution.asm` file provides a corrected version with robust error handling and bounds checking.
